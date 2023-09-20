@@ -115,18 +115,11 @@ You can use the `Swiper` component to create multiple views or screens within yo
 </Swiper>
 ```
 
-## Customization
-
-Feel free to modify the provided styles and components to match your app's design guidelines. You can also extend the functionality of this calendar component to suit your specific requirements.
-
-## License
-
-This calendar component is available under the [MIT License](LICENSE). You are free to use and modify it as needed for your project.
 
 ## Author
 
 This calendar component is developed by Abid for the 2024 Mock Convention App.
 
-For any questions or assistance, please contact Abid at [abid@example.com](mailto:abid@example.com).
+For any questions or assistance, please contact me at ajeem@mail.wlu.edu
 
-We hope this calendar component enhances your app's user experience and helps you manage event schedules effectively!
+I hope this calendar component enhances your app's user experience and helps you manage event schedules effectively!
