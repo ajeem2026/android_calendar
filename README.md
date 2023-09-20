@@ -3,7 +3,7 @@
 
 ![Calendar Preview](https://drive.google.com/uc?id=10t9M7Ka39ck-2V6p4ELJqL3x_oXFNrUk)
 
-This React Native calendar component is being developed by Abid as part of the 2024 Mock Convention App. The calendar component is designed to provide a user-friendly and visually appealing way to display event schedules and upcoming events. This README will guide you through the usage and features of this calendar component.
+This React Native calendar component is being developed by Abid as part of the W&L 2024 Mock Convention App. The calendar component is designed to provide a user-friendly and visually appealing way to display event schedules and upcoming events. This README will guide you through the usage and features of this calendar component.
 
 ## Features
 
@@ -118,7 +118,7 @@ You can use the `Swiper` component to create multiple views or screens within yo
 
 ## Author
 
-This calendar component is developed by Abid for the 2024 Mock Convention App.
+This calendar component is developed by Abid Jeem (Class of 2026)  for the 2024 W&L Mock Convention App.
 
 For any questions or assistance, please contact me at ajeem@mail.wlu.edu
 
