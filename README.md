@@ -1,7 +1,7 @@
 # android_calendar
 # 2024 Mock Convention App Calendar
 
-![Calendar Preview](calendar-preview.png)
+![Calendar Preview](https://drive.google.com/uc?id=10t9M7Ka39ck-2V6p4ELJqL3x_oXFNrUk)
 
 This React Native calendar component is being developed by Abid as part of the 2024 Mock Convention App. The calendar component is designed to provide a user-friendly and visually appealing way to display event schedules and upcoming events. This README will guide you through the usage and features of this calendar component.
 
