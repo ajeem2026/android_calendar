@@ -5,31 +5,16 @@
 
 This React Native calendar component is being developed by Abid as part of the W&L 2024 Mock Convention App. The calendar component is designed to provide a user-friendly and visually appealing way to display event schedules and upcoming events. This README will guide you through the usage and features of this calendar component.
 
-## Features
-
-- **Date Picker**: Users can select a date range using the DateRangePicker component to filter events by specific dates.
-
-- **Agenda View**: The calendar includes an Agenda view to display a list of events for the selected date range.
-
-- **Upcoming Events**: Upcoming events are displayed prominently, showing event names, times, and locations.
-
-- **Swiper for Multiple Views**: The Swiper component allows users to switch between different views or screens effortlessly.
 
 ## Installation
 
 To use this calendar component in your React Native project, follow these steps:
 
-1. Install the required dependencies by running:
+1. Copy the `App.js` code into your project.
 
-   ```bash
-   npm install react-native-calendars react-native-swiper
-   ```
+2. Import the necessary components and stylesheets.
 
-2. Copy the `App.js` code into your project.
-
-3. Import the necessary components and stylesheets.
-
-4. Integrate the `App` component into your app's navigation or screen structure.
+3. Integrate the `App` component into your app's navigation or screen structure.
 
 ## Usage
 
@@ -97,23 +82,6 @@ The `Upcoming` section in the calendar can be customized and populated with your
 </View>
 ```
 
-### Swiper for Multiple Views
-
-You can use the `Swiper` component to create multiple views or screens within your calendar. Customize the content of each view:
-
-```jsx
-<Swiper height={500} showsButtons={true}>
-    <View style={stylesheet.Slide}>
-        <Text style={stylesheet.DisplayUpcoming}>Hello Swiper</Text>
-    </View>
-    <View style={stylesheet.Slide}>
-        <Text>Beautiful</Text>
-    </View>
-    <View style={stylesheet.Slide}>
-        <Text>And simple</Text>
-    </View>
-</Swiper>
-```
 
 
 ## Author
